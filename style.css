@@ -1,0 +1,113 @@
+/*******************
+
+COMMON
+
+********************/
+
+body {
+    font-family: "monospace",sans-serif;
+    background-color:whitesmoke;
+}
+
+.font-primary {
+    color: #eb6b34;
+}
+
+.title-icon {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 14px;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+
+a.font-black {
+    color: rgb(0, 0, 0);
+}
+/*******************
+
+ABOUT
+
+********************/
+
+#about {
+    margin: 60px auto;
+    max-width: 400px;
+    text-align:center
+}
+
+#about img {
+    border-radius: 50%;
+    width: 120px;
+    margin-bottom: 10px;
+}
+
+#about .name {
+    font-size: 19px;
+}
+
+#about .vocation {
+    font-size: 17px;
+    color: #737375;
+    margin-bottom: 10px;
+
+}
+
+#about .skills {
+    font-size: 14px;
+    color: #eb6b34;
+    margin-bottom: 10px;
+}
+
+#about .email {
+    margin-top: 14px;
+    font-size: 15px;
+}
+
+#about .icons {
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+#about .icons a {
+    color: #000000;
+}
+
+/*******************
+
+Project
+
+********************/
+
+#project {
+    margin: 60px auto;
+    width: 80%;
+    text-align: center;
+}
+
+#project h1 {
+    text-align: center;
+}
+
+#project .card video{
+    width:320px;
+    height: 300px;
+}
+
+#project .card-title {
+    font-weight: bold;
+
+}
+
+#project .project-video {
+    width: 100%;
+    max-height: 270px;
+    background-color: black;
+  }
