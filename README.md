@@ -9,6 +9,7 @@ width="500">
 ## Tech used
 * HTML
 * CSS
+* Bootstrap
 ## Installation
 No need to install anything, just open index.html.
 ## How to use?
